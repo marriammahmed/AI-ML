@@ -28,7 +28,7 @@ This repository  demonstrates proficiency in implementing, analyzing, and interp
 - Recurrent Neural Networks (RNN)     <br/>
 - Reinforcement Learning (basics)   <br/>
 
-<h3>Key Skills and Concepts:</h3>
+<h3>Course Outcomes & Skills:</h3>
 - <b>Artificial Intelligence & Machine Learning Fundamentals</b>: supervised vs unsupervised learning, ethical implications, real-world applications  <br/>
 - <b>Regression Techniques</b>: Linear Regression (Simple, Multiple), Non-Linear Regression (Polynomial, Logarithmic, Exponential), Regularized Regression (Ridge, Lasso, Elastic Net), Decision Tree Regression, Random Forest Regression, Support Vector Regression, Neural Network Regression  <br/>
 - <b>Neural Networks</b>: Perceptrons, Activation Functions, Feedforward Networks, Deep Neural Networks, Training & Backpropagation (conceptual understanding), Applying NNs to real-world datasets  <br/>
